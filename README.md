@@ -8,7 +8,7 @@ Now you can have this in your own application. Many people have done it, but thi
 
 Here comes a screenshot to check out:
 
-![KittScanner Screenshot](/img/kitt-scanner.gif)
+![KittScanner Screenshot](https://github.com/sorrynofocus/KittScanner/blob/1ddb792a7cc3042f36879350c9fdb49ef439d7e4/img/kitt-scanner.gif)
 
 ### Build 
 
